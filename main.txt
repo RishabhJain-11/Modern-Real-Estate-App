@@ -1,0 +1,4 @@
+We are using Chakra UI - so please look at the docs of Chakra UI
+React Js - advanced topics such as Props, State, Rendering etc
+Next JS - Look at the docs
+Rapid API - docs
